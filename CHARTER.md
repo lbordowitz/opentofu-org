@@ -23,9 +23,9 @@ This Charter sets forth the responsibilities and procedures for technical contri
 
       * i. Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project; and
 
-      * ii. Committers are Contributors who have earned the ability to modify (“commit”) source code, documentation or other technical artifacts in a project’s repository; and 
+      * ii. Committers are Contributors who have earned the ability to directly modify (“commit”) source code, documentation or other technical artifacts in a project’s repository (e.g. through merging Contributor pull requests); additionally, they have permission to execute automated builds and testing for pull requests. The Committer takes full responsibility for all changes they commit and the effects of all code they cause to execute through aforementioned builds and testing; and
 
-      * iii. A Maintainer is a Committer with additional administrative privileges and access controls for source code and infrastructure. In addition to this access, they liaise with the TSC on matters of technical direction of the OpenTofu project. Maintainers of the organization are distinct from maintainers of source code repository, as a Committer or Maintainer may be a maintainer of source code repository; and
+      * iii. A Maintainer is a Committer with additional administrative privileges and access controls for source code and infrastructure. In addition to this access, they liaise with the TSC on matters of technical direction of the OpenTofu project. Maintainers of the organization are distinct from maintainers of source code repository, as a Committer or Maintainer may be a maintainer of source code repository. The Maintainers are responsible for the upkeep of the OpenTofu project's technical aspects; and
 
       * iv. The TSC may change the role of any Contributor by majority approval, whether establishing them as Committer or Maintainer, or by revoking their roles and privileges. Any Maintainer may also voluntarily downgrade their status from Maintainer to Committer at will, and any Maintainer and Committer may voluntarily resign their status at will.
 
